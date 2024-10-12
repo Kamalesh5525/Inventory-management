@@ -1,0 +1,9 @@
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 100vh;
+  text-align: center;
+  background-color: black !important;
+}
