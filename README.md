@@ -22,7 +22,7 @@ The Inventory Management System is a web application built with React that allow
 - **Bootstrap**: For responsive design and UI components.
 
 
-
+https://inventory-management-tan-three.vercel.app/
 
 
 
